@@ -8,7 +8,7 @@
 Pod::Spec.new do |s|
  
 s.platform = :ios
-s.ios.deployment_target = '14.0'
+s.ios.deployment_target = '14.1'
 s.name = "Core"
 s.summary = "DicodingIosExpert Core.framework for modularization chapter"
 s.requires_arc = true
